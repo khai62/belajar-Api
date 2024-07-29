@@ -1,0 +1,28 @@
+[
+    {
+        "nama": "Khairuddin",
+        "umur": 20,
+        "Status": "Mahasiswa",
+        "hoby" : [
+            "ngoding",
+            "me time" 
+        ],
+        "kegiatan": {
+            "siang":["tidur, belajar "],
+            "malam": ["publik speaking", "b.inggris", "ngoding" ]
+        }
+    },
+    {
+        "nama": "Khai",
+        "umur": 20,
+        "Status": "Mahasiswa",
+        "hoby" : [
+            "ngoding",
+            "me time" 
+        ],
+        "kegiatan": {
+            "siang":["tidur, belajar "],
+            "malam": ["publik speaking", "b.inggris", "ngoding" ]
+        }
+    }
+]
